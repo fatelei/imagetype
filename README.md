@@ -3,9 +3,15 @@ imagetype
 
 Get correct image type
 
+## Support Image type
++ jpeg
++ png
++ gif
++ tiff
++ bmp 
 
-Usage
-=========
+- - -
+## Usage
 ```
 var imtype = require('imtype');
 var fs = require('fs');
@@ -31,8 +37,7 @@ var data = fs.readFileSync('foo.tif');
 console.log(imtype.isTIF(data));
 ```
 
-Test
-========
+## Test
 ```
 make test
 ```
