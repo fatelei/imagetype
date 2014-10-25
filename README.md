@@ -3,6 +3,11 @@ imagetype
 
 Get correct image type
 
+## Install
+```
+npm install imtype
+```
+
 ## Support Image type
 + jpeg
 + png
