@@ -1,5 +1,5 @@
 {
-  "name": "imagetype",
+  "name": "imtype",
   "version": "1.0.0",
   "description": "Get image type",
   "main": "index.js",
